@@ -1,0 +1,5 @@
+{
+  "name": "Social Sphere Content Generator",
+  "description": "A cross-platform social media content generator. Users input an idea and tone, and the app generates drafted posts for LinkedIn, Twitter/X, and Instagram, along with unique, platform-optimized images.",
+  "requestFramePermissions": []
+}
